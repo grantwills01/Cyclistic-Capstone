@@ -1,4 +1,4 @@
-Cyclistic Data Analysis Project
+Cyclistic Data Analysis Project - 
 Grant Wills
 
 This project is about analyzing raw data of fictional bikeshare company Cyclistic. 
